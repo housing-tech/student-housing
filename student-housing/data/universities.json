@@ -1,0 +1,12 @@
+[
+  {
+    "id": "PSB",
+    "nom": "Paris School of Business",
+    "ville": "Paris"
+  },
+  {
+    "id": "Sorbonne",
+    "nom": "Sorbonne Université",
+    "ville": "Paris"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "universite": "PSB",
+    "nom": "Résidence Saint-Michel",
+    "distance_km": 1.2,
+    "loyer": 650,
+    "type": "Studio",
+    "contact": "WhatsApp +33 6 00 00 00 00"
+  },
+  {
+    "id": 2,
+    "universite": "PSB",
+    "nom": "Résidence Jardin",
+    "distance_km": 2.5,
+    "loyer": 520,
+    "type": "Partagé",
+    "contact": "Email residence@exemple.fr"
+  },
+  {
+    "id": 3,
+    "universite": "Sorbonne",
+    "nom": "Résidence Latin",
+    "distance_km": 0.9,
+    "loyer": 700,
+    "type": "Studio",
+    "contact": "Formulaire en ligne"
+  },
+  {
+    "universite": "PSB",
+    "nom": "Test Residence",
+    "distance_km": 1.0,
+    "loyer": 500,
+    "type": "Studio",
+    "contact": "test@mail.com",
+    "id": 4
+  }
+]
