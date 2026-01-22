@@ -93,3 +93,4 @@ else:
             st.write(f"📍 {l['distance_km']} km | 💶 {l['loyer']} €")
             st.write(f"🛏️ {l['type']}")
             st.write(f"📞 {l['contact']}")
+            Move app.py to root
