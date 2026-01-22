@@ -6,9 +6,8 @@ from housing.listings import add_listing
 import qrcode
 from io import BytesIO
 
-# ✅ Burayı kendi Mac IP'n ile değiştir (Terminalde "Network URL" yazan)
-SERVER_IP = "10.182.186.198"
-PORT = 8501
+# ✅ Public URL (Streamlit Cloud)
+PUBLIC_URL = "https://student-housing-nvaq8qkrfhc4trzuvkgmnc.streamlit.app"
 
 st.set_page_config(page_title="Student Housing", layout="centered")
 st.title("🏠 Student Housing")
@@ -31,9 +30,9 @@ mode = st.sidebar.radio(
     index=default_index
 )
 
-# ✅ QR kod: Telefonda çalışması için localhost değil IP olmalı
+# ✅ QR kod: artık herkesin açabileceği PUBLIC URL
 st.sidebar.markdown("### 📱 QR Code (Propriétaire)")
-owner_url = f"http://{SERVER_IP}:{PORT}/?mode=owner"
+owner_url = f"{PUBLIC_URL}/?mode=owner"
 
 qr = qrcode.make(owner_url)
 buf = BytesIO()
