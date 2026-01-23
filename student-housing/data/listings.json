@@ -34,5 +34,52 @@
     "type": "Studio",
     "contact": "test@mail.com",
     "id": 4
+  },
+  {
+    "universite": "PSB",
+    "nom": "Italie",
+    "distance_km": 2.0,
+    "loyer_min": 400,
+    "loyer_max": 900,
+    "type": "Studio",
+    "meubles": true,
+    "charges_incluses": false,
+    "proprietaire": "Stefan DuLook",
+    "telephone": "+33 754234244",
+    "email": "stefan.dulookexemple@gmail.com",
+    "contact_pref": "Email",
+    "whatsapp": "+33 754234244",
+    "quartier": "Rue de Tolbiac, 75013",
+    "disponible": "2026-01-23",
+    "description": "proche de metro, chauffage et internet inclus, ascenseur disponible, 20m2",
+    "regles": [
+      "Non-fumeur"
+    ],
+    "id": 5
+  },
+  {
+    "universite": "SORBONNE",
+    "nom": "Luxembourg",
+    "distance_km": 2.0,
+    "loyer_min": 550,
+    "loyer_max": 1200,
+    "type": "Studio",
+    "meubles": true,
+    "charges_incluses": false,
+    "image_url": "https://res.cloudinary.com/dsmcukmw7/image/upload/v1769155545/mqbb3r3tlyj5mkooeshv.jpg",
+    "latitude": 48.8501249,
+    "longitude": 2.3407534,
+    "proprietaire": "Lea Dupont",
+    "telephone": "+33 754467311",
+    "email": "lea.dupontmailexemple@gmail.com",
+    "contact_pref": "Téléphone",
+    "whatsapp": "+33 754467311",
+    "quartier": "13 Rue de l'école",
+    "disponible": "2026-01-23",
+    "description": "proche métro, ascenseur, chauffage exclus",
+    "regles": [
+      "Garantie demandée"
+    ],
+    "id": 6
   }
 ]
