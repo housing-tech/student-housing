@@ -1,12 +1,92 @@
 [
   {
-    "id": "PSB",
-    "nom": "Paris School of Business",
-    "ville": "Paris"
+    "id": "SORBONNE",
+    "nom": "Sorbonne Université",
+    "ville": "Paris",
+    "type": "Université publique",
+    "arrondissement": "5e",
+    "latitude": 48.8462,
+    "longitude": 2.3449
   },
   {
-    "id": "Sorbonne",
-    "nom": "Sorbonne Université",
-    "ville": "Paris"
+    "id": "PARIS_CITE",
+    "nom": "Université Paris Cité",
+    "ville": "Paris",
+    "type": "Université publique",
+    "arrondissement": "6e",
+    "latitude": 48.8529,
+    "longitude": 2.3430
+  },
+  {
+    "id": "PSL",
+    "nom": "Université PSL",
+    "ville": "Paris",
+    "type": "Université / Grande École",
+    "arrondissement": "5e",
+    "latitude": 48.8422,
+    "longitude": 2.3445
+  },
+  {
+    "id": "ASSAS",
+    "nom": "Université Paris-Panthéon-Assas",
+    "ville": "Paris",
+    "type": "Université publique",
+    "arrondissement": "6e",
+    "latitude": 48.8500,
+    "longitude": 2.3333
+  },
+  {
+    "id": "PARIS1",
+    "nom": "Université Paris 1 Panthéon-Sorbonne",
+    "ville": "Paris",
+    "type": "Université publique",
+    "arrondissement": "5e",
+    "latitude": 48.8466,
+    "longitude": 2.3461
+  },
+  {
+    "id": "SORBONNE_NOUVELLE",
+    "nom": "Sorbonne Nouvelle – Paris 3",
+    "ville": "Paris",
+    "type": "Université publique",
+    "arrondissement": "5e",
+    "latitude": 48.8495,
+    "longitude": 2.3432
+  },
+  {
+    "id": "DAUPHINE",
+    "nom": "Université Paris Dauphine-PSL",
+    "ville": "Paris",
+    "type": "Université / Grande École",
+    "arrondissement": "16e",
+    "latitude": 48.8709,
+    "longitude": 2.2747
+  },
+  {
+    "id": "PARIS8",
+    "nom": "Université Paris 8 Vincennes-Saint-Denis",
+    "ville": "Paris",
+    "type": "Université publique",
+    "arrondissement": "Saint-Denis",
+    "latitude": 48.9458,
+    "longitude": 2.3626
+  },
+  {
+    "id": "NANTERRE",
+    "nom": "Université Paris Nanterre",
+    "ville": "Paris",
+    "type": "Université publique",
+    "arrondissement": "Nanterre",
+    "latitude": 48.9045,
+    "longitude": 2.2144
+  },
+  {
+    "id": "PSB",
+    "nom": "Paris School of Business",
+    "ville": "Paris",
+    "type": "Business School",
+    "arrondissement": "13e",
+    "latitude": 48.8323,
+    "longitude": 2.3553
   }
 ]
